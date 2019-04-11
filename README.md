@@ -8,7 +8,7 @@ To:
 Ребята
 ```
 ### Working
-Put scitp to parent folder and run:
+Put scitpt to parent folder and run:
 ```bash
 python convert.py
 ```
